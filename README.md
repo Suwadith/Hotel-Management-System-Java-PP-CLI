@@ -1,6 +1,6 @@
-# Hotel-Management-System-JAVA-CLI
+# Hotel-Management-System-Java-CLI
 
-A simple JAVA, Non-Object Oriented Programming based Hotel Management System.
+A simple Java, Non-Object Oriented Programming based Hotel Management System.
 
 Administor has the ability to add, remove customers from a total number of 10 rooms.
 
