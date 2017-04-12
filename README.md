@@ -1,6 +1,6 @@
-# Hotel-Management-System-Java-CLI
+# Hotel-Management-System-Java-PP-CLI
 
-Java based Hotel Management System.
+Java based Hotel Management System. [Procedural Programming]
 
 Administor has the ability to add, remove customers from a total number of 10 rooms.
 
